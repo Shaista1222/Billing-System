@@ -1,0 +1,38 @@
+C:\Users\Mega Providers\source\repos\Project(VP)\Project(VP)\bin\Debug\Project(VP).exe.config
+C:\Users\Mega Providers\source\repos\Project(VP)\Project(VP)\bin\Debug\Project(VP).exe
+C:\Users\Mega Providers\source\repos\Project(VP)\Project(VP)\bin\Debug\Project(VP).pdb
+C:\Users\Mega Providers\source\repos\Project(VP)\Project(VP)\obj\Debug\Project_VP_.Login.resources
+C:\Users\Mega Providers\source\repos\Project(VP)\Project(VP)\obj\Debug\Project_VP_.Properties.Resources.resources
+C:\Users\Mega Providers\source\repos\Project(VP)\Project(VP)\obj\Debug\Project(VP).csproj.GenerateResource.cache
+C:\Users\Mega Providers\source\repos\Project(VP)\Project(VP)\obj\Debug\Project(VP).csproj.CoreCompileInputs.cache
+C:\Users\Mega Providers\source\repos\Project(VP)\Project(VP)\obj\Debug\Project(VP).exe
+C:\Users\Mega Providers\source\repos\Project(VP)\Project(VP)\obj\Debug\Project(VP).pdb
+C:\Users\Mega Providers\source\repos\Project(VP)\Project(VP)\obj\Debug\Project_VP_.Cafe_Billing_System.resources
+C:\Users\Mega Providers\source\repos\Project(VP)\Project(VP)\bin\Debug\Guna.UI2.dll
+C:\Users\Mega Providers\source\repos\Project(VP)\Project(VP)\obj\Debug\Project(VP).csproj.CopyComplete
+C:\Users\Mega Providers\source\repos\Project(VP)\Project(VP)\obj\Debug\Project_VP_.BillingControl1.resources
+C:\Users\Mega Providers\source\repos\Project(VP)\Project(VP)\obj\Debug\Project_VP_.ProductsControl1.resources
+C:\Users\Mega Providers\source\repos\Project(VP)\Project(VP)\obj\Debug\Project_VP_.ReceiptControl1.resources
+C:\Users\Mega Providers\source\repos\Project(VP)\Project(VP)\obj\Debug\Project_VP_.Users.resources
+C:\Users\Mega Providers\source\repos\Project(VP)\Project(VP)\obj\Debug\Project_VP_.Receipts.resources
+C:\Users\Mega Providers\source\repos\Project(VP)\Project(VP)\obj\Debug\Project_VP_.Cashier.resources
+C:\Users\Mega Providers\source\repos\Project(VP)\Project(VP)\obj\Debug\Project(VP).csproj.AssemblyReference.cache
+F:\projects\Project(VP)\Project(VP)\bin\Debug\Project(VP).exe.config
+F:\projects\Project(VP)\Project(VP)\bin\Debug\Project(VP).exe
+F:\projects\Project(VP)\Project(VP)\bin\Debug\Project(VP).pdb
+F:\projects\Project(VP)\Project(VP)\bin\Debug\Guna.UI2.dll
+F:\projects\Project(VP)\Project(VP)\obj\Debug\Project(VP).csproj.AssemblyReference.cache
+F:\projects\Project(VP)\Project(VP)\obj\Debug\Project_VP_.BillingControl1.resources
+F:\projects\Project(VP)\Project(VP)\obj\Debug\Project_VP_.Cafe_Billing_System.resources
+F:\projects\Project(VP)\Project(VP)\obj\Debug\Project_VP_.Cashier.resources
+F:\projects\Project(VP)\Project(VP)\obj\Debug\Project_VP_.Login.resources
+F:\projects\Project(VP)\Project(VP)\obj\Debug\Project_VP_.ProductsControl1.resources
+F:\projects\Project(VP)\Project(VP)\obj\Debug\Project_VP_.Properties.Resources.resources
+F:\projects\Project(VP)\Project(VP)\obj\Debug\Project_VP_.ReceiptControl1.resources
+F:\projects\Project(VP)\Project(VP)\obj\Debug\Project_VP_.Receipts.resources
+F:\projects\Project(VP)\Project(VP)\obj\Debug\Project_VP_.Users.resources
+F:\projects\Project(VP)\Project(VP)\obj\Debug\Project(VP).csproj.GenerateResource.cache
+F:\projects\Project(VP)\Project(VP)\obj\Debug\Project(VP).csproj.CoreCompileInputs.cache
+F:\projects\Project(VP)\Project(VP)\obj\Debug\Project(VP).csproj.CopyComplete
+F:\projects\Project(VP)\Project(VP)\obj\Debug\Project(VP).exe
+F:\projects\Project(VP)\Project(VP)\obj\Debug\Project(VP).pdb
